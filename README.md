@@ -31,7 +31,7 @@ The designs were created to the following widths:
 ### Links
 
 - Solution URL: [Profile Card Component](https://github.com/miroslaw-mroczkowski/frontendmentor.io/tree/main/Newbie/profile-card-component)
-- Live Site URL: [Profile Card Component](https://miroslaw-mroczkowski.github.io/frontendmentor.io/)
+- Live Site URL: [Profile Card Component](https://miroslaw-mroczkowski.github.io/profile-card-component/)
 
 ## My process
 
